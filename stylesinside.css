@@ -10,14 +10,11 @@
 }
 
 #snowy {
-	background-image: url("images/snowybackground2.png");
+	background-image: url("images/blueice.jpg");
 }
 
 body {
 	background-color: #00adee;
-	background-image: url("images/snowybackground.png");
-	background-position: bottom;
-	background-repeat: repeat-x;
 	font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 
