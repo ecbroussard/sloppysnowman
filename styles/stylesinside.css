@@ -6,11 +6,11 @@
 
 @font-face {
 	font-family: "kgStrawberryLimeaid";
-	src: url("fonts/kgstrawberrylimeade-webfont.woff");
+	src: url("../fonts/kgstrawberrylimeade-webfont.woff");
 }
 
 #snowy {
-	background-image: url("images/blueice.jpg");
+	background-image: url("../images/blueice.jpg");
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 
 #header {
 	background-color: black;
-	background-image: url("images/snowballbanner.png");
+	background-image: url("../images/snowballbanner.png");
 	width: 900px;
 	height: 200px;
 	margin: auto;

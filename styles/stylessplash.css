@@ -5,7 +5,7 @@
 }
 
 #splash {
-	background-image: url("images/splashbackground.png");
+	background-image: url("../images/splashbackground.png");
 	width: 1000px;
 	height: 624px;
 	margin-right: auto;
@@ -14,12 +14,12 @@
 }
 
 #snowy {
-	background-image: url("images/snowybackground2.png");
+	background-image: url("../images/snowybackground2.png");
 }
 
 body {
 	background-color: white;
-	background-image: url("images/snowybackground.png");
+	background-image: url("../images/snowybackground.png");
 	background-position: bottom;
 	background-repeat: repeat-x;
 	font-family: 'Lato', Arial, Helvetica, sans-serif;
